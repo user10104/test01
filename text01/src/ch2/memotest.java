@@ -44,8 +44,8 @@ public class memotest {
 				System.out.println("-------------");
 				int finger =10;
 				System.out.printf("finger : %d\n", finger); 
-				System.out.printf("finger : [%5d]\n", finger); //대괄호를 빼도 상관없음
-				System.out.printf("finger : [%-2d]\n", finger);
+				System.out.printf("finger : [%5d]\n", finger); //대괄호를 빼도 상관없음.
+				System.out.printf("finger : [%-2d]\n", finger); //d앞의 숫자는 자리를 맞추기 위한 값, 변해도 상관없다.
 				//%d => 10진(decimal) 정수의 형식으로 출력하는 지시자이다.
 	}
 
