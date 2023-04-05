@@ -1,0 +1,21 @@
+package ex01;
+
+public class Year {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int year = 0;
+		int age = 11; // 변수 age를 선언, age변수는 ~ -21억부터 +21억 저장 가능.
+		
+		System.out.println(year);
+		System.out.println(age);
+		
+		year = age + 1234; // 변수 age값에 1234 더함 , 11+1234 
+		age = age + 24; // 변수 age저장된 값 1증가, 11+24
+		
+		System.out.println(year);
+		System.out.println(age);
+
+	}
+
+}

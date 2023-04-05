@@ -1,0 +1,15 @@
+package ex01;
+
+public class Plustest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int 가 = 12;
+		int 나 = 34;
+		int 다 = 56;
+		
+		System.out.println(가 + 나 + 다);
+
+	}
+
+}

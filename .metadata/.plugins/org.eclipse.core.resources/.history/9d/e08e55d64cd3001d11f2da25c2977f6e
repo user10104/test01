@@ -1,0 +1,28 @@
+package ch2;
+
+public class floattest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		float f = 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f;
+		System.out.println(f);
+		
+		double sum = 0;
+		
+		for(int 1 = 0; 1<30; 1++)
+			sum = sum + 0.1;
+		System.out.println(sum);
+		
+		float f1 = 2147483648f;
+		float f2 = 2147483648f;
+		float f3 = 2147483648f;
+
+		System.out.println("%f1/n");
+		System.out.println("%f2/n");
+		System.out.println("%f3/n");
+		
+		final int MAX_SPEED = 100;
+	}
+
+}

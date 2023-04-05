@@ -1,0 +1,8 @@
+package ch2;
+
+public class floattest {
+	
+	float f = 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f + 0.1f ;
+	Sysout
+
+}

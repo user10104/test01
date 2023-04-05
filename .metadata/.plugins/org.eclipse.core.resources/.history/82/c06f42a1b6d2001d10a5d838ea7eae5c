@@ -1,0 +1,31 @@
+package ch2;
+
+public class Printfex1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		byte b = 1;
+		short s = 2;
+		char c ='A';
+		
+		int finger = 10;
+		long big = 100_000_000_000L; // long big = 1000000000000L
+		long hex = 0xFFFF_FFFF_FFFF_FFFFL ;
+		
+		int octNum = 010; //8진수- 8
+		int hexnum = 0x10; //16진수- 16
+		int binNum = 0b10; //2진수- 2
+
+		System.out.println("b=%D%N",b);
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+	}
+
+}
